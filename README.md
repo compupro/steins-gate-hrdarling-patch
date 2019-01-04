@@ -1,5 +1,5 @@
 # steins-gate-hrdarling-patch
-Translation patch for Steins;Gate Hiyoku Renri no Darling/Darling of Loving Vows
+Translation patch for Steins;Gate Hiyoku Renri no Darling/Darling of Loving Vows for PSP
 
 ![Screenshot of me having edited one of the dialog boxes](https://i.imgur.com/ltZuaTP.png)
 
