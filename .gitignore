@@ -1,0 +1,8 @@
+original-data/
+patch-data-merged/
+atlas-scripts/
+patch-data/
+topographer/build
+topographer/objects
+Atlas.exe
+*.iso
