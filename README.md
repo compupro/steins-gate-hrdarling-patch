@@ -1,6 +1,8 @@
 # steins-gate-hrdarling-patch
 Translation patch for Steins;Gate Hiyoku Renri no Darling/Darling of Loving Vows
 
+![Screenshot of me having edited one of the dialog boxes](https://i.imgur.com/ltZuaTP.png)
+
 Currently I have no translation aside from Zakobot's translations, which are hard to work with. I contacted Committee of Zero, who at the time of this writing is working on a patch for the PC version the the same game, but they aren't willing to release their translations before they're complete. Thus I am waiting for that to come out, and am putting what I currently have in this repo so I can resume work on that when it comes out.
 
 I am putting a manual of how to edit the game's text in the Github repo's [Wiki](https://github.com/compupro/steins-gate-hrdarling-patch/wiki), as well as a few insights into the structure of the game.
