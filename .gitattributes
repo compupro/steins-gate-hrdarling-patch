@@ -1,0 +1,3 @@
+#Stop git from changing EOL characters
+#It could break something if it does
+* text=false
