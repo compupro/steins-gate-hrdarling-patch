@@ -4,7 +4,7 @@ atlas-scripts/
 patch-data/
 crifilesystem/
 DATA0/
-DATA0.CPK
+*.CPK
 topographer/build
 topographer/objects
 topographer.run
