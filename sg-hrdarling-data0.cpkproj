@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Orca XML File Format -->
+<OrcaTrees OriginalFilePath=".\sg-hrdarling-DATA0.cpkproj" ObjectTypeExpression="Full" BinaryEncodingType="Base64" FileVersion="3" FileRevision="0">
+  <OrcaTree OrcaName="./CpkFileBuilder.exe">
+    <Orca OrcaName="CRI CPK Builder" OrcaType="CriMw.CriGears.Core.OrcaObject">
+      <Orca OrcaName="Workspace" OrcaType="CriMw.CriGears.Core.OrcaObject">
+        <Orca OrcaName="Project" CpkFilePath="DATA0.CPK" LastWriteTime="2019-01-02 23:27:20" CpkFileMode="ModeFilenameAndId" FileLayoutType="LayoutModeId" CpkDataAlignment="2048" CpkTryCompression="False" CpkMaskInfo="False" CpkCrc="True" CpkOutputHeader="False" OutputAddRangeCsv="False" IsSpecifyHeaderFilePath="False" IsProgramSymbolUsePrefix="False" IsProgramSymbolUseSuffix="False" IsRemoveFileExtension="False" EnableAttrString="False" CpkRandomPadding="False" CpkTopTocInfo="True" CpkRemoveLocalFileInfo="False" NumberOfMaxId="14" OutputFilePath="./DATA0.CPK" Command="" Arguments="&quot;%CPKPATH%&quot;" EnablePostProcess="False" ShowProcess="False" FileOptimizeType="None" RemainGroupName="Remains" OpenLayoutEdit="True" DisplayMself="False" EnableMself="False" NoDateTimeInfo="False" ShowTooWindow="False" CodecInfo="0" Lzma_WindowSize="3" Lzma_BlockSizeVer2="17" Relc_PageSize="12" Relc_RomType="1" UnificationType="None" GroupFileAlignment="-1" DifferencePartOnly="False" ShowLogPain="True" ShowDetailPain="True" ShowTreePain="True" CompressThreshold="100" CompressFileSize="0" AuthorToolVersion="CPKFBSTD1.49.34, DLL3.24.00" OrcaType="CpkFileBuilder.Objects.ObjectProject">
+          <Orca OrcaName="Root" CompressedSize="731241538" OriginalSize="731241538" AlignedSize="731254784" OrcaType="CpkFileBuilder.Objects.ObjectDirectory">
+            <Orca OrcaName="BGL00.CPK" Id="6" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr)" LastWriteTime="2012-02-01 17:28:58" LocalFilePath="DATA0/BGL00.CPK" OriginalSize="62983120" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="BGS00.CPK" Id="11" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):1" LastWriteTime="2012-01-27 16:20:03" LocalFilePath="DATA0/BGS00.CPK" OriginalSize="7268588" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="CHL00.CPK" Id="7" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):2" LastWriteTime="2012-02-09 20:28:30" LocalFilePath="DATA0/CHL00.CPK" OriginalSize="84598496" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="CHS00.CPK" Id="12" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):3" LastWriteTime="2012-02-09 20:28:46" LocalFilePath="DATA0/CHS00.CPK" OriginalSize="10686968" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="CONFIG.CPK" Id="1" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):4" LastWriteTime="2012-02-29 12:07:07" LocalFilePath="DATA0/CONFIG.CPK" OriginalSize="15692" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="DATA0.CLS" Id="0" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):5" LastWriteTime="2012-02-08 17:52:03" LocalFilePath="DATA0/DATA0.CLS" OriginalSize="142" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="FONTS.CPK" Id="2" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):6" LastWriteTime="2012-02-09 16:45:52" LocalFilePath="DATA0/FONTS.CPK" OriginalSize="1136128" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="ICON.CPK" Id="3" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):7" LastWriteTime="2012-01-24 16:32:10" LocalFilePath="DATA0/ICON.CPK" OriginalSize="327792" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="OBJSY.CPK" Id="4" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):8" LastWriteTime="2012-02-24 18:33:23" LocalFilePath="DATA0/OBJSY.CPK" OriginalSize="2751904" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="SE00.CPK" Id="10" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):9" LastWriteTime="2011-12-09 11:46:12" LocalFilePath="DATA0/SE00.CPK" OriginalSize="50628608" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="VO00.CPK" Id="8" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):10" LastWriteTime="2012-02-01 16:22:16" LocalFilePath="DATA0/VO00.CPK" OriginalSize="246637840" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="VO01.CPK" Id="9" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):11" LastWriteTime="2012-02-28 19:26:48" LocalFilePath="DATA0/VO01.CPK" OriginalSize="263033256" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+            <Orca OrcaName="SCENE00.CPK" Id="5" AttributeLink="/CRI CPK Builder/Workspace/Project/Attributes//(attr):12" LastWriteTime="2019-01-02 23:21:04" LocalFilePath="DATA0/SCENE00.CPK" OriginalSize="1173004" OrcaType="CpkFileBuilder.Objects.ObjectFile" />
+          </Orca>
+          <Orca OrcaName="Groups" LastWriteTime="0001-01-01 0:00:00" SyncFileList="True" OriginalSize="0" OrcaType="CpkFileBuilder.Objects.ObjectGroup" />
+          <Orca OrcaName="Attributes" Alignment="2048" OriginalSize="0" OrcaType="CpkFileBuilder.Objects.ObjectAttribute">
+            <Orca OrcaName="" Alignment="2048" DeleteLocked="True" OriginalSize="0" OrcaType="CpkFileBuilder.Objects.ObjectAttribute">
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/BGL00.CPK" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/BGS00.CPK" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/CHL00.CPK" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/CHS00.CPK" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/CONFIG.CPK" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/DATA0.CLS" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/FONTS.CPK" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/ICON.CPK" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/OBJSY.CPK" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/SE00.CPK" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/VO00.CPK" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/VO01.CPK" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+              <Orca OrcaName="(attr)" LinkedObject="/CRI CPK Builder/Workspace/Project/Root/SCENE00.CPK" OrcaType="CpkFileBuilder.Objects.ObjectAttributeLink" />
+            </Orca>
+          </Orca>
+        </Orca>
+      </Orca>
+      <Orca OrcaName="View" OrcaType="CriMw.CriGears.Core.OrcaObject">
+        <Orca />
+      </Orca>
+      <!-- Copyright (c) CRI Middleware Co.,LTD. -->
+      <!-- end of document -->
+    </Orca>
+  </OrcaTree>
+</OrcaTrees>

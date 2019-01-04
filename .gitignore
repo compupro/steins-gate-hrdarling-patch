@@ -2,6 +2,8 @@ original-data/
 patch-data-merged/
 atlas-scripts/
 patch-data/
+crifilesystem/
+DATA0/
 topographer/build
 topographer/objects
 Atlas.exe
