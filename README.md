@@ -10,6 +10,7 @@ If you want to work on the patch, you will need the following:
 * Atlas 1.11
 * crifilesystem (should contain CpkFileBuilder.exe)
 * UMDgen
+
 If you're working on Windows like I am, you will also need:
 * MinGW-w64
 * msys
