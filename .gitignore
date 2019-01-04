@@ -6,5 +6,6 @@ crifilesystem/
 DATA0/
 topographer/build
 topographer/objects
+topographer.run
 Atlas.exe
 *.iso
